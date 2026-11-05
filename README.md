@@ -2,6 +2,10 @@
 
 A small, runnable example for [Google Trends Scraper](https://apify.com/aurelix/google-trends-scraper), an Apify Actor by Aurelix.
 
+[![Google Trends Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)**
+
 ## What it does
 
 Google Trends Scraper turns Google Trends into clean rows: for every keyword you get the interest-over-time timeline with average, peak and latest value, interest by country, state, metro area or city, and top and rising related queries with growth such as +250% or Breakout. Type keywords or paste Google Trends explore links (the terms, location, time range, category and search type are read from each link). Give hundreds of keywords at once: they are compared 5 at a time with a shared anchor keyword, so every value sits on one 0-100 scale. Choose any time range, category and search type (web, YouTube, News, Images, Shopping), and add Google's Trending now searches for any country.
