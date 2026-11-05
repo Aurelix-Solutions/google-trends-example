@@ -1,6 +1,18 @@
 # Google Trends Scraper: Python example
 
-A small, runnable example for [Google Trends Scraper](https://apify.com/aurelix/google-trends-scraper), an Apify Actor by Aurelix.
+**The problem:** You want Google Trends data for many keywords on one comparable scale, with regions and rising queries, without downloading one CSV per keyword.
+
+**The tool:** [Google Trends Scraper](https://apify.com/aurelix/google-trends-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $1.50 per 1,000 results on Apify's free plan and $0.90 on paid plans, plus $0.0075 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![Google Trends Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)
 
