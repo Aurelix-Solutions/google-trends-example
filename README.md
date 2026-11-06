@@ -1,5 +1,8 @@
 # Google Trends Scraper: Python example
 
+**Google Trends Interest Over Time Scraper by Region.** Google Trends interest over time, by region and rising queries for any number of keywords, plus trending searches. Price, example input and output, and FAQ: [Google Trends by Region on the Aurelix tools site](https://aurelix-solutions.github.io/tools/google-trends-scraper/). Run it on the Apify Store: [apify.com/aurelix/google-trends-scraper](https://apify.com/aurelix/google-trends-scraper).
+
+
 **The problem:** You want Google Trends data for many keywords on one comparable scale, with regions and rising queries, without downloading one CSV per keyword.
 
 **The tool:** [Google Trends Scraper](https://apify.com/aurelix/google-trends-scraper), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
@@ -14,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![Google Trends Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)
+[![Google Trends by Region: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/google-trends-scraper-demo-v1.mp4)**
 
